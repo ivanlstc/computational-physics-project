@@ -62,3 +62,6 @@ Plots a zoomed in version of the 2D NLL near the minimum, and path taken by the 
 Finds the associated errors with tau_min and a_min by finding when the NLL changes by 0.5
 Outputs tau_min, tau_plus/tau_minus, a_min, a_plus/a_minus
 
+-------------------------------
+
+Ignore this part, testing git commit function from linux terminal.
